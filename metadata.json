@@ -1,0 +1,6 @@
+{
+  "name": "VoiceStudio — Studio Sintesis & Kloning Suara",
+  "description": "Aplikasi web profesional berbahasa Indonesia untuk mengubah teks menjadi suara alami (Text-to-Speech) dengan Gemini TTS dan membuat kloning suara kustom (Voice Cloning).",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
